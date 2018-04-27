@@ -16,7 +16,9 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-
+/tmp/cache/*
+/tmp/cache/webpacker/*
+/tmp/cache/assets/*
 /node_modules
 /yarn-error.log
 
