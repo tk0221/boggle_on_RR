@@ -816,3 +816,1706 @@ Processing by WelcomeController#index as HTML
 Completed 200 OK in 3356ms (Views: 3354.4ms)
 
 
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:26:48 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 1438ms (Views: 1333.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:27:05 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (14.6ms)
+Completed 200 OK in 93ms (Views: 87.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:30:23 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 89ms (Views: 84.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:38:11 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2803.4ms)
+Completed 200 OK in 2823ms (Views: 2821.2ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:38:48 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2781.4ms)
+Completed 200 OK in 2799ms (Views: 2795.9ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:39:04 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2850.6ms)
+Completed 200 OK in 2866ms (Views: 2863.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:45:57 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2737.5ms)
+Completed 200 OK in 2750ms (Views: 2749.1ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:47:07 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 1474ms (Views: 1366.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:47:51 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2628.8ms)
+Completed 200 OK in 2644ms (Views: 2642.2ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:48:53 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2574.2ms)
+Completed 200 OK in 2586ms (Views: 2585.1ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:49:36 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2648.0ms)
+Completed 200 OK in 2675ms (Views: 2668.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:49:44 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 33ms (Views: 30.7ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:50:16 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2686.8ms)
+Completed 200 OK in 2710ms (Views: 2705.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:50:41 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (3019.8ms)
+Completed 500 Internal Server Error in 3025ms
+
+
+  
+ActionView::Template::Error (Encountered error "#<ExecJS::ProgramError: TypeError: Cannot read property 'toLowerCase' of undefined>" when prerendering Board with {"props":null}
+ReactDOMServerRenderer.renderDOM (webpack-internal:///31:2286:27)
+ReactDOMServerRenderer.render (webpack-internal:///31:2280:21)
+ReactDOMServerRenderer.read (webpack-internal:///31:2216:19)
+Object.renderToString (webpack-internal:///31:2483:25)
+Object.ReactRailsUJS.serverRender (webpack-internal:///17:73:42)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:6:45)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:18:13)
+(execjs):612:8
+(execjs):618:14
+global ((execjs):1:102)
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:39:in `render_from_parts'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:20:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/bundle_renderer.rb:40:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:27:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:26:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:66:in `prerender_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:34:in `block in react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `block in capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:203:in `with_output_buffer'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/tag_helper.rb:272:in `content_tag'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:49:in `react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/tk/code/tmp/boggle_on_rr/app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186138473560'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:157:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:168:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:352:in `instrument_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:155:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:52:in `block (2 levels) in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:42:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:41:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:51:in `block in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:50:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:23:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:103:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:52:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/rendering.rb:24:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:36:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/share/rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/benchmark.rb:308:in `realtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/implicit_render.rb:33:in `default_render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:186:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:108:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/controller_lifecycle.rb:31:in `use_react_component_helper'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:135:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rescue.rb:20:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:124:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:30:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:189:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:253:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:31:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:50:in `block in serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `each'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:834:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/etag.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/conditional_get.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/head.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:232:in `context'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:226:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/cookies.rb:613:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/migration.rb:556:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:97:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:135:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:28:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `catch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:36:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `block in tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/sprockets-rails-3.2.1/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/request_id.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/method_override.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/runtime.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/static.rb:125:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/sendfile.rb:111:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib/webpacker/dev_server_proxy.rb:17:in `perform_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib/rack/proxy.rb:57:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/engine.rb:522:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/configuration.rb:225:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:605:in `handle_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:437:in `process_client'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:301:in `block in run'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/thread_pool.rb:120:in `block in spawn_thread'):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { props: @board_props }, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186138473560'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:51:26 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (212.1ms)
+Completed 500 Internal Server Error in 217ms
+
+
+  
+ActionView::Template::Error (Encountered error "#<ExecJS::ProgramError: TypeError: Cannot read property 'toLowerCase' of undefined>" when prerendering Board with {"props":{"name":"board"}}
+ReactDOMServerRenderer.renderDOM (webpack-internal:///31:2286:27)
+ReactDOMServerRenderer.render (webpack-internal:///31:2280:21)
+ReactDOMServerRenderer.read (webpack-internal:///31:2216:19)
+Object.renderToString (webpack-internal:///31:2483:25)
+Object.ReactRailsUJS.serverRender (webpack-internal:///17:73:42)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:6:45)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:18:13)
+(execjs):612:8
+(execjs):618:14
+global ((execjs):1:102)
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:39:in `render_from_parts'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:20:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/bundle_renderer.rb:40:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:27:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:26:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:66:in `prerender_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:34:in `block in react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `block in capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:203:in `with_output_buffer'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/tag_helper.rb:272:in `content_tag'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:49:in `react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/tk/code/tmp/boggle_on_rr/app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186114508360'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:157:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:168:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:352:in `instrument_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:155:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:52:in `block (2 levels) in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:42:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:41:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:51:in `block in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:50:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:23:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:103:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:52:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/rendering.rb:24:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:36:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/share/rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/benchmark.rb:308:in `realtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/implicit_render.rb:33:in `default_render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:186:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:108:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/controller_lifecycle.rb:31:in `use_react_component_helper'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:135:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rescue.rb:20:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:124:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:30:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:189:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:253:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:31:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:50:in `block in serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `each'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:834:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/etag.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/conditional_get.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/head.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:232:in `context'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:226:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/cookies.rb:613:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/migration.rb:556:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:97:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:135:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:28:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `catch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:36:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `block in tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/sprockets-rails-3.2.1/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/request_id.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/method_override.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/runtime.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/static.rb:125:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/sendfile.rb:111:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib/webpacker/dev_server_proxy.rb:17:in `perform_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib/rack/proxy.rb:57:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/engine.rb:522:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/configuration.rb:225:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:605:in `handle_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:437:in `process_client'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:301:in `block in run'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/thread_pool.rb:120:in `block in spawn_thread'):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { props: @board_props }, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186114508360'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:51:52 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (9.4ms)
+Completed 500 Internal Server Error in 15ms
+
+
+  
+ActionView::Template::Error (undefined method `name' for {:name=>"board"}:Hash):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { props: @board_props.name }, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186138131120'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:52:23 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (7.4ms)
+Completed 500 Internal Server Error in 11ms
+
+
+  
+ActionView::Template::Error (undefined method `msg' for {:msg=>"board"}:Hash):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { props: @board_props.msg}, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186132989860'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:52:36 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (208.6ms)
+Completed 500 Internal Server Error in 225ms
+
+
+  
+ActionView::Template::Error (Encountered error "#<ExecJS::ProgramError: TypeError: Cannot read property 'toLowerCase' of undefined>" when prerendering Board with {"props":{"msg":"board"}}
+ReactDOMServerRenderer.renderDOM (webpack-internal:///31:2286:27)
+ReactDOMServerRenderer.render (webpack-internal:///31:2280:21)
+ReactDOMServerRenderer.read (webpack-internal:///31:2216:19)
+Object.renderToString (webpack-internal:///31:2483:25)
+Object.ReactRailsUJS.serverRender (webpack-internal:///17:73:42)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:6:45)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:18:13)
+(execjs):612:8
+(execjs):618:14
+global ((execjs):1:102)
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:39:in `render_from_parts'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:20:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/bundle_renderer.rb:40:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:27:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:26:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:66:in `prerender_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:34:in `block in react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `block in capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:203:in `with_output_buffer'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/tag_helper.rb:272:in `content_tag'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:49:in `react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/tk/code/tmp/boggle_on_rr/app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186116477040'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:157:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:168:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:352:in `instrument_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:155:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:52:in `block (2 levels) in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:42:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:41:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:51:in `block in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:50:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:23:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:103:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:52:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/rendering.rb:24:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:36:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/share/rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/benchmark.rb:308:in `realtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/implicit_render.rb:33:in `default_render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:186:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:108:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/controller_lifecycle.rb:31:in `use_react_component_helper'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:135:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rescue.rb:20:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:124:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:30:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:189:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:253:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:31:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:50:in `block in serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `each'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:834:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/etag.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/conditional_get.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/head.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:232:in `context'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:226:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/cookies.rb:613:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/migration.rb:556:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:97:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:135:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:28:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `catch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:36:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `block in tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/sprockets-rails-3.2.1/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/request_id.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/method_override.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/runtime.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/static.rb:125:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/sendfile.rb:111:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib/webpacker/dev_server_proxy.rb:17:in `perform_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib/rack/proxy.rb:57:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/engine.rb:522:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/configuration.rb:225:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:605:in `handle_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:437:in `process_client'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:301:in `block in run'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/thread_pool.rb:120:in `block in spawn_thread'):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { props: @board_props}, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186116477040'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:52:51 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 23ms (Views: 22.3ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:54:01 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2831.7ms)
+Completed 200 OK in 2850ms (Views: 2846.9ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:54:21 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2581.6ms)
+Completed 200 OK in 2595ms (Views: 2592.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:54:42 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2654.4ms)
+Completed 200 OK in 2672ms (Views: 2668.3ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:54:54 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2589.2ms)
+Completed 200 OK in 2606ms (Views: 2603.9ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:55:27 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2809.6ms)
+Completed 200 OK in 2826ms (Views: 2823.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:55:59 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2587.8ms)
+Completed 200 OK in 2602ms (Views: 2599.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:56:11 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2674.4ms)
+Completed 200 OK in 2686ms (Views: 2685.4ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:56:59 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2740.3ms)
+Completed 200 OK in 2759ms (Views: 2757.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:57:16 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2813.8ms)
+Completed 200 OK in 2829ms (Views: 2827.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:57:27 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2635.6ms)
+Completed 200 OK in 2648ms (Views: 2647.1ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:57:52 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2618.2ms)
+Completed 200 OK in 2629ms (Views: 2628.2ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 16:58:22 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2639.7ms)
+Completed 200 OK in 2656ms (Views: 2653.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:01:27 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2857.2ms)
+Completed 200 OK in 2871ms (Views: 2867.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:02:07 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2822.5ms)
+Completed 200 OK in 2833ms (Views: 2832.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:02:21 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (353.3ms)
+Completed 200 OK in 371ms (Views: 368.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:02:58 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (3128.0ms)
+Completed 500 Internal Server Error in 3132ms
+
+
+  
+ActionView::Template::Error (Encountered error "#<ExecJS::ProgramError: TypeError: Cannot read property 'board' of undefined>" when prerendering Board with {"props":{"board":"ABCDEFGHABCDEFGH"}}
+Board.render (webpack-internal:///7:30:27)
+resolve (webpack-internal:///31:2134:18)
+ReactDOMServerRenderer.render (webpack-internal:///31:2242:22)
+ReactDOMServerRenderer.read (webpack-internal:///31:2216:19)
+Object.renderToString (webpack-internal:///31:2483:25)
+Object.ReactRailsUJS.serverRender (webpack-internal:///17:73:42)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:6:45)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:18:13)
+(execjs):612:8
+(execjs):618:14
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:39:in `render_from_parts'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:20:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/bundle_renderer.rb:40:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:27:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:26:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:66:in `prerender_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:34:in `block in react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `block in capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:203:in `with_output_buffer'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/tag_helper.rb:272:in `content_tag'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:49:in `react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/tk/code/tmp/boggle_on_rr/app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186135530720'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:157:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:168:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:352:in `instrument_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:155:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:52:in `block (2 levels) in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:42:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:41:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:51:in `block in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:50:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:23:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:103:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:52:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/rendering.rb:24:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:36:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/share/rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/benchmark.rb:308:in `realtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/implicit_render.rb:33:in `default_render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:186:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:108:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/controller_lifecycle.rb:31:in `use_react_component_helper'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:135:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rescue.rb:20:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:124:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:30:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:189:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:253:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:31:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:50:in `block in serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `each'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:834:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/etag.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/conditional_get.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/head.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:232:in `context'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:226:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/cookies.rb:613:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/migration.rb:556:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:97:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:135:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:28:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `catch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:36:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `block in tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/sprockets-rails-3.2.1/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/request_id.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/method_override.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/runtime.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/static.rb:125:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/sendfile.rb:111:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib/webpacker/dev_server_proxy.rb:17:in `perform_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib/rack/proxy.rb:57:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/engine.rb:522:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/configuration.rb:225:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:605:in `handle_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:437:in `process_client'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:301:in `block in run'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/thread_pool.rb:120:in `block in spawn_thread'):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { props: @board_props }, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186135530720'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:03:14 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2814.1ms)
+Completed 200 OK in 2831ms (Views: 2828.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:03:46 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2938.0ms)
+Completed 500 Internal Server Error in 2943ms
+
+
+  
+ActionView::Template::Error (Encountered error "#<ExecJS::ProgramError: TypeError: Cannot read property 'toLowerCase' of undefined>" when prerendering Board with {"props":{"board":"ABCDEFGHABCDEFGH"}}
+ReactDOMServerRenderer.renderDOM (webpack-internal:///31:2286:27)
+ReactDOMServerRenderer.render (webpack-internal:///31:2280:21)
+ReactDOMServerRenderer.read (webpack-internal:///31:2216:19)
+Object.renderToString (webpack-internal:///31:2483:25)
+Object.ReactRailsUJS.serverRender (webpack-internal:///17:73:42)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:6:45)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:18:13)
+(execjs):612:8
+(execjs):618:14
+global ((execjs):1:102)
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:39:in `render_from_parts'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:20:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/bundle_renderer.rb:40:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:27:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:26:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:66:in `prerender_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:34:in `block in react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `block in capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:203:in `with_output_buffer'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/tag_helper.rb:272:in `content_tag'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:49:in `react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/tk/code/tmp/boggle_on_rr/app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186135263640'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:157:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:168:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:352:in `instrument_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:155:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:52:in `block (2 levels) in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:42:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:41:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:51:in `block in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:50:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:23:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:103:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:52:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/rendering.rb:24:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:36:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/share/rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/benchmark.rb:308:in `realtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/implicit_render.rb:33:in `default_render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:186:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:108:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/controller_lifecycle.rb:31:in `use_react_component_helper'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:135:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rescue.rb:20:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:124:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:30:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:189:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:253:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:31:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:50:in `block in serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `each'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:834:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/etag.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/conditional_get.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/head.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:232:in `context'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:226:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/cookies.rb:613:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/migration.rb:556:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:97:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:135:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:28:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `catch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:36:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `block in tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/sprockets-rails-3.2.1/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/request_id.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/method_override.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/runtime.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/static.rb:125:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/sendfile.rb:111:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib/webpacker/dev_server_proxy.rb:17:in `perform_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib/rack/proxy.rb:57:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/engine.rb:522:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/configuration.rb:225:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:605:in `handle_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:437:in `process_client'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:301:in `block in run'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/thread_pool.rb:120:in `block in spawn_thread'):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { props: @board_props }, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186135263640'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:04:32 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (3215.5ms)
+Completed 200 OK in 3237ms (Views: 3235.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:05:27 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (301.4ms)
+Completed 500 Internal Server Error in 313ms
+
+
+  
+ActionView::Template::Error (Encountered error "#<ExecJS::ProgramError: Invariant Violation: Objects are not valid as a React child (found: object with keys {board}). If you meant to render a collection of children, use an array instead.
+    in p
+    in div
+    in Board>" when prerendering Board with {"board":{"board":"ABCDEFGHABCDEFGH"}}
+in p
+in div
+in Board
+invariant (webpack-internal:///2:42:15)
+traverseAllChildrenImpl (webpack-internal:///14:786:7)
+traverseAllChildren (webpack-internal:///14:814:10)
+mapIntoWithKeyPrefixInternal (webpack-internal:///14:890:3)
+toArray (webpack-internal:///14:937:3)
+ReactDOMServerRenderer.renderDOM (webpack-internal:///31:2455:18)
+ReactDOMServerRenderer.render (webpack-internal:///31:2280:21)
+ReactDOMServerRenderer.read (webpack-internal:///31:2216:19)
+Object.renderToString (webpack-internal:///31:2483:25)
+Object.ReactRailsUJS.serverRender (webpack-internal:///17:73:42)
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:39:in `render_from_parts'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:20:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/bundle_renderer.rb:40:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:27:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:26:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:66:in `prerender_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:34:in `block in react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `block in capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:203:in `with_output_buffer'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/tag_helper.rb:272:in `content_tag'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:49:in `react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/tk/code/tmp/boggle_on_rr/app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186126966040'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:157:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:168:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:352:in `instrument_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:155:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:52:in `block (2 levels) in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:42:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:41:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:51:in `block in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:50:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:23:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:103:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:52:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/rendering.rb:24:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:36:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/share/rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/benchmark.rb:308:in `realtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/implicit_render.rb:33:in `default_render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:186:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:108:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/controller_lifecycle.rb:31:in `use_react_component_helper'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:135:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rescue.rb:20:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:124:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:30:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:189:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:253:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:31:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:50:in `block in serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `each'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:834:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/etag.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/conditional_get.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/head.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:232:in `context'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:226:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/cookies.rb:613:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/migration.rb:556:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:97:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:135:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:28:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `catch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:36:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `block in tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/sprockets-rails-3.2.1/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/request_id.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/method_override.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/runtime.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/static.rb:125:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/sendfile.rb:111:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib/webpacker/dev_server_proxy.rb:17:in `perform_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib/rack/proxy.rb:57:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/engine.rb:522:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/configuration.rb:225:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:605:in `handle_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:437:in `process_client'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:301:in `block in run'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/thread_pool.rb:120:in `block in spawn_thread'):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { board: @board_props }, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186126966040'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:06:00 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (3183.3ms)
+Completed 200 OK in 3202ms (Views: 3197.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:06:11 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (3154.3ms)
+Completed 500 Internal Server Error in 3158ms
+
+
+  
+ActionView::Template::Error (Encountered error "#<ExecJS::ProgramError: TypeError: Cannot read property 'text' of undefined>" when prerendering Board with {"board":{"text":"ABCDEFGHABCDEFGH"}}
+Board.render (webpack-internal:///7:29:21)
+resolve (webpack-internal:///31:2134:18)
+ReactDOMServerRenderer.render (webpack-internal:///31:2242:22)
+ReactDOMServerRenderer.read (webpack-internal:///31:2216:19)
+Object.renderToString (webpack-internal:///31:2483:25)
+Object.ReactRailsUJS.serverRender (webpack-internal:///17:73:42)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:6:45)
+eval (eval at <anonymous> ((execjs):612:8), <anonymous>:18:13)
+(execjs):612:8
+(execjs):618:14
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:39:in `render_from_parts'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:20:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/bundle_renderer.rb:40:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:27:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:26:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:66:in `prerender_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:34:in `block in react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `block in capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:203:in `with_output_buffer'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/tag_helper.rb:272:in `content_tag'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:49:in `react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/tk/code/tmp/boggle_on_rr/app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186138714880'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:157:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:168:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:352:in `instrument_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:155:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:52:in `block (2 levels) in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:42:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:41:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:51:in `block in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:50:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:23:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:103:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:52:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/rendering.rb:24:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:36:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/share/rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/benchmark.rb:308:in `realtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/implicit_render.rb:33:in `default_render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:186:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:108:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/controller_lifecycle.rb:31:in `use_react_component_helper'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:135:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rescue.rb:20:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:124:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:30:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:189:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:253:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:31:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:50:in `block in serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `each'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:834:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/etag.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/conditional_get.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/head.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:232:in `context'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:226:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/cookies.rb:613:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/migration.rb:556:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:97:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:135:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:28:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `catch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:36:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `block in tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/sprockets-rails-3.2.1/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/request_id.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/method_override.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/runtime.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/static.rb:125:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/sendfile.rb:111:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib/webpacker/dev_server_proxy.rb:17:in `perform_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib/rack/proxy.rb:57:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/engine.rb:522:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/configuration.rb:225:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:605:in `handle_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:437:in `process_client'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:301:in `block in run'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/thread_pool.rb:120:in `block in spawn_thread'):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { board: @board_props }, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186138714880'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:08:20 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2998.1ms)
+Completed 500 Internal Server Error in 3002ms
+
+
+  
+ActionView::Template::Error (Encountered error "#<ExecJS::ProgramError: TypeError: element.type.toLowerCase is not a function>" when prerendering Board with {"board":null}
+ReactDOMServerRenderer.renderDOM (webpack-internal:///29:2286:28)
+ReactDOMServerRenderer.render (webpack-internal:///29:2280:21)
+ReactDOMServerRenderer.read (webpack-internal:///29:2216:19)
+Object.renderToString (webpack-internal:///29:2483:25)
+Object.ReactRailsUJS.serverRender (webpack-internal:///13:73:42)
+eval (eval at <anonymous> ((execjs):589:8), <anonymous>:6:45)
+eval (eval at <anonymous> ((execjs):589:8), <anonymous>:18:13)
+(execjs):589:8
+(execjs):595:14
+global ((execjs):1:102)
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:39:in `exec'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/execjs-2.7.0/lib/execjs/external_runtime.rb:21:in `eval'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:39:in `render_from_parts'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/exec_js_renderer.rb:20:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering/bundle_renderer.rb:40:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:27:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:64:in `block (2 levels) in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:63:in `block in with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `handle_interrupt'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/connection_pool-2.2.1/lib/connection_pool.rb:60:in `with'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/server_rendering.rb:26:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:66:in `prerender_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:34:in `block in react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `block in capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:203:in `with_output_buffer'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/capture_helper.rb:39:in `capture'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/helpers/tag_helper.rb:272:in `content_tag'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/component_mount.rb:49:in `react_component'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/view_helper.rb:21:in `react_component'
+/home/tk/code/tmp/boggle_on_rr/app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186138563000'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:157:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:168:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:352:in `instrument_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/template.rb:155:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:52:in `block (2 levels) in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:42:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/abstract_renderer.rb:41:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:51:in `block in render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:50:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/template_renderer.rb:14:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/renderer/renderer.rb:23:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:103:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/streaming.rb:217:in `_render_template'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:83:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:52:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/renderers.rb:141:in `render_to_body'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/rendering.rb:24:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:36:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/share/rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/benchmark.rb:308:in `realtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:34:in `cleanup_view_runtime'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:43:in `render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/implicit_render.rb:33:in `default_render'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:186:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rendering.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:108:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/react-rails-2.4.2/lib/react/rails/controller_lifecycle.rb:31:in `use_react_component_helper'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:135:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/callbacks.rb:19:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/rescue.rb:20:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `block in instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/notifications.rb:166:in `instrument'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/abstract_controller/base.rb:124:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionview-5.1.4/lib/action_view/rendering.rb:30:in `process'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:189:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_controller/metal.rb:253:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:31:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:50:in `block in serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `each'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/journey/router.rb:33:in `serve'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/routing/route_set.rb:834:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/etag.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/conditional_get.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/head.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:232:in `context'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/session/abstract/id.rb:226:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/cookies.rb:613:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.4/lib/active_record/migration.rb:556:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/callbacks.rb:97:in `run_callbacks'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:135:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:28:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `catch'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib/web_console/middleware.rb:18:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:36:in `call_app'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `block in call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `block in tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:26:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/tagged_logging.rb:69:in `tagged'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/rack/logger.rb:24:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/sprockets-rails-3.2.1/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/request_id.rb:25:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/method_override.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/runtime.rb:22:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/activesupport-5.1.4/lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/executor.rb:12:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/actionpack-5.1.4/lib/action_dispatch/middleware/static.rb:125:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-2.0.3/lib/rack/sendfile.rb:111:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib/webpacker/dev_server_proxy.rb:17:in `perform_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib/rack/proxy.rb:57:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/engine.rb:522:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/configuration.rb:225:in `call'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:605:in `handle_request'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:437:in `process_client'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/server.rb:301:in `block in run'
+/home/tk/.rvm/gems/ruby-2.4.1/gems/puma-3.10.0/lib/puma/thread_pool.rb:120:in `block in spawn_thread'):
+    1: <%= javascript_pack_tag 'application' %>
+    2: <%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: false %>
+    3: <%= react_component 'Board', { board: @board_props }, prerender: true %>
+  
+app/views/welcome/index.html.erb:3:in `_app_views_welcome_index_html_erb___636740903545943636_70186138563000'
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:08:50 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 63ms (Views: 59.3ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:09:07 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2594.6ms)
+Completed 200 OK in 2611ms (Views: 2606.2ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:09:19 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2789.5ms)
+Completed 200 OK in 2809ms (Views: 2806.7ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:09:41 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2834.3ms)
+Completed 200 OK in 2853ms (Views: 2851.2ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:10:48 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2778.1ms)
+Completed 200 OK in 2798ms (Views: 2796.7ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:10:57 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2778.2ms)
+Completed 200 OK in 2802ms (Views: 2795.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:14:15 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2561.4ms)
+Completed 200 OK in 2576ms (Views: 2574.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:14:27 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 31ms (Views: 29.7ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:14:56 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2533.4ms)
+Completed 200 OK in 2549ms (Views: 2546.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:15:25 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2588.9ms)
+Completed 200 OK in 2600ms (Views: 2598.7ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:15:34 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 31ms (Views: 28.3ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:15:44 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2626.5ms)
+Completed 200 OK in 2642ms (Views: 2640.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:16:08 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2574.5ms)
+Completed 200 OK in 2596ms (Views: 2594.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:16:23 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2828.1ms)
+Completed 200 OK in 2852ms (Views: 2848.7ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:16:52 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2786.3ms)
+Completed 200 OK in 2806ms (Views: 2803.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:17:07 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2793.3ms)
+Completed 200 OK in 2811ms (Views: 2809.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:17:17 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2562.0ms)
+Completed 200 OK in 2583ms (Views: 2580.1ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:18:55 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2549.2ms)
+Completed 200 OK in 2570ms (Views: 2567.9ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:19:06 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2844.6ms)
+Completed 200 OK in 2871ms (Views: 2867.2ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:21:20 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (3072.1ms)
+Completed 200 OK in 3112ms (Views: 3109.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:24:14 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2786.6ms)
+Completed 200 OK in 2802ms (Views: 2800.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:24:53 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2526.6ms)
+Completed 200 OK in 2542ms (Views: 2540.3ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:25:06 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 25ms (Views: 22.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:29:46 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2742.4ms)
+Completed 200 OK in 2757ms (Views: 2755.3ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2018-04-26 17:30:08 -0700
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /home/tk/code/tmp/boggle_on_rr/public/packs
+  Rendered welcome/index.html.erb within layouts/application (2805.1ms)
+Completed 200 OK in 2836ms (Views: 2831.1ms)
+
+

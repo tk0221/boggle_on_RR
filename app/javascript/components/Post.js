@@ -1,19 +1,18 @@
 var React = require("react")
-var PropTypes = require("prop-types")
 class Post extends React.Component {
+
   render () {
     return (
       <div>
-        <div>Title: {this.props.title}</div>
-        <div>Body: {this.props.body}</div>
-        <div> prof : {this.props.props.name}</div>
+        <div> {this.props.title} </div>
+        <div> {this.props.props.r1} </div>
+        <div> {this.props.props.r2} </div>
+        <div> {this.props.props.r3} </div>
+        <div> {this.props.props.r4} </div>
       </div>
     );
   }
 }
 
-Post.propTypes = {
-  title: PropTypes.string,
-  body: PropTypes.string
-};
 module.exports = Post
+
