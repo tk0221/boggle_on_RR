@@ -1,3 +1,2 @@
 <%= javascript_pack_tag 'application' %>
-<%= react_component 'Post', { title: 'Boggle', body: 'Simple but effective', props: @props }, prerender: true %>
-<%= react_component 'Guess', { post: @post } %>
+<%= react_component 'Guess', { title: 'Boggle', body: 'Simple but effective', props: @props, post: @post }, prerender: true %>

@@ -21,18 +21,35 @@ class Guess extends React.Component {
 		this.setState({ content: e.target.value });
 	}
 	submitGuess(e) {
+		console.log(this.state.content);
 		$.ajax({
-			type: 'GET',
-			url: '/api/v1/guesses',
+			type: 'PUT',
+			data: {
+				guess_word: this.state.content
+			},
+			url: '/api/v1/gamedatas/'+this.state.content+'.json'
 		})
-		.done(function() {
-			console.log("ajax call");
+		.done(function(data) {
+			console.log(data);
+			console.log(this);
 		})
 	}
 	render () {
-
 		return (
-			<center>
+		<center>
+			<div>
+				<div> {this.props.title} </div>
+			<br/>
+				<div id="main">
+				  <div id="board">
+				    <div> {this.props.props.r1} </div>
+				    <div> {this.props.props.r2} </div>
+				    <div> {this.props.props.r3} </div>
+				    <div> {this.props.props.r4} </div>
+				  </div>
+				</div>
+			</div>
+			<br/>
 			<div>
 				<input
 				type="text"
@@ -40,11 +57,9 @@ class Guess extends React.Component {
 				value={this.state.content}
 				onChange={this.handleContentChange}
 				/>
-
-
 				<input type="submit" value="Submit" onClick={this.submitGuess} />
 			</div>
-			</center>
+		</center>
 			);
 	}
 }
