@@ -5,8 +5,10 @@ class Guess extends React.Component {
 	constructor(props) {
 		super(props)
 		this.state = {
-			title: props.post.title,
-			content: props.post.content
+			content: props.post.content,  	//guess
+			words: null,					//word found
+			score_board: null,
+			score: 0
 		};
 		this.handleTitleChange = this.handleTitleChange.bind(this);
 		this.handleContentChange = this.handleContentChange.bind(this);
@@ -28,19 +30,44 @@ class Guess extends React.Component {
 			data: {
 				guess_word: this.state.content
 			},
-			url: '/api/v1/gamedatas/'+this.state.content+'.json'
+			url: '/welcome/'+this.state.content+'.json',
+			success: function(data) {
+				this.setState({words:data.found});  //update word found
+				
+
+				var score = 0
+				for (var key in data.found) {
+					score = score + data.found[key]
+				}
+				this.setState({score:score});
+
+
+				var text = JSON.stringify(data.found)
+				
+
+
+				if (text.length < 6)
+					text = ""
+				else
+					text = text.substring(6, text.length-1)
+					text = text.split(',').join('\n')
+
+
+				this.setState({score_board:text});
+				// console.log(data);
+			}.bind(this)
 		})
 		.done(function(data) {
-			console.log(data);
-			console.log(this);
+			// console.log(data);
 		})
 	}
 	render () {
+		console.log(this.state.words);
 		return (
 		<center>
 			<div>
 				<div> {this.props.title} </div>
-			<br/>
+				<br/>
 				<div id="main">
 				  <div id="board">
 				    <div> {this.props.props.r1} </div>
@@ -53,15 +80,18 @@ class Guess extends React.Component {
 			<br/>
 			<div>
 				<input
-				type="text"
-				name="post[content]"
-				value={this.state.content}
-				onChange={this.handleContentChange}
+					type="text"
+					name="post[content]"
+					value={this.state.content}
+					onChange={this.handleContentChange}
 				/>
 				<input type="submit" value="Submit" onClick={this.submitGuess} />
 			</div>
+			Score:{this.state.score}
+			<br/>
+			<textarea readonly rows="10" value={this.state.score_board} />
 		</center>
-			);
+		);
 	}
 }
 
