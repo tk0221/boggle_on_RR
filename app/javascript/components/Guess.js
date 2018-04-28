@@ -20,6 +20,7 @@ class Guess extends React.Component {
 	handleContentChange(e) {
 		this.setState({ content: e.target.value });
 	}
+
 	submitGuess(e) {
 		console.log(this.state.content);
 		$.ajax({

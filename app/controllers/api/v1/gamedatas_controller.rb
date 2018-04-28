@@ -1,23 +1,24 @@
-module Api::V1
-	class GamedatasController < ApplicationController
-		skip_before_action :verify_authenticity_token
-		def index
-			@guesses = guess_params
-			p guess_params
-			render json: @guesses
-		end
+# module Api::V1
+#     class GamedatasController < ApplicationController
+#         skip_before_action :verify_authenticity_token
+#         def index
+#             @gdata = gdata_params
+#             p gdata_params
+#             render json: @guesses
+#         end
 
-		def update
-			@guess = guess_params[:guess]
-			p guess_params
-			render json: guess_params if @guess.nil?
+#         def update
+#             @gdata = gdata_params[:guess]
 
-		end
+#             p gdata_params
+#             render json: gdata_params if @gdata.nil?
 
-		private
+#         end
 
-		def guess_params
-			params
-		end
-	end
-end
+#         private
+
+#         def gdata_params
+#             params
+#         end
+#     end
+# end
