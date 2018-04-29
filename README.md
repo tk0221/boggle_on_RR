@@ -23,7 +23,7 @@
 ## Things NOT covered in this repo
  
  - Fancy animation effects
- - Designed to be serve single user
+ - Designed to serve one single user
  - 4 x 4 as default  
 
 ## How to excute
