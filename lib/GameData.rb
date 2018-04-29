@@ -26,8 +26,10 @@ class GameData
 
   	def check_guess(word)
   		#preprocess
-  		if word == "zzz"
-  			@errors = "Invalid Input Word"
+  		if @found[word]
+  			@errors = "Input is already in answers."
+  		elsif word == "zzz"
+  			@errors = "Invalid Input."
   		else
   			@errors = nil
   			add_to_found(word)

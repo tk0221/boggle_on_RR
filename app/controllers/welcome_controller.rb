@@ -16,11 +16,11 @@ class WelcomeController < ApplicationController
 		@@gdata.check_guess(gdata_params[:id])
 		
 		gdata_params[:found] = @@gdata.get_found
-
+		
 		if @@gdata.errors.nil?
 			render json: gdata_params
 		else
-			render :json => { :errors => "Invalid Input" }
+			render :json => { :errors => @@gdata.errors }
 		end
 	end
 

@@ -6,8 +6,8 @@ class Guess extends React.Component {
 		super(props)
 		this.state = {
 			content: props.post.content,  	//guess
-			words: null,					//word found
-			score_board: null,
+			words: [],					//word found
+			score_board: "",
 			score: 0
 		};
 		this.handleTitleChange = this.handleTitleChange.bind(this);
@@ -30,7 +30,7 @@ class Guess extends React.Component {
 			data: {
 				guess_word: this.state.content
 			},
-			url: '/welcome/'+this.state.content+'.json',
+			url: '/welcome/' + this.state.content + '.json',
 			success: function(data) {
 				if (data.errors) {
 					alert(data.errors);
@@ -42,7 +42,6 @@ class Guess extends React.Component {
 						score = score + data.found[key]
 					}
 					this.setState({score:score});
-
 
 					var text = JSON.stringify(data.found)
 					
