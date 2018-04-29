@@ -13,7 +13,7 @@ class WelcomeController < ApplicationController
 	end
 
 	def update
-		@@gdata.check_guess(gdata_params[:id].upcase!)
+		@@gdata.check_guess(gdata_params[:id])
 		
 		gdata_params[:found] = @@gdata.get_found
 		
