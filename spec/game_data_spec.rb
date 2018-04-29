@@ -66,9 +66,4 @@ describe GameData do
       expect(@gdata.send(:request_word_check, "itsNotAWord")).to be false
     end
   end
-
-  
-
-
-
 end
