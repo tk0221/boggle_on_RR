@@ -1,34 +1,34 @@
 class WelcomeController < ApplicationController
-    skip_before_action :verify_authenticity_token
+  skip_before_action :verify_authenticity_token
 
-	require 'GameData'
+  require 'GameData'
 
-	@@gdata ||= GameData.new
+  @@gdata ||= GameData.new
 
-	def index
-		@@gdata = GameData.new		
-		@props = @@gdata.props
-		@post = @@gdata.post
+  def index
+    @@gdata = GameData.new		
+    @props = @@gdata.props
+    @post = @@gdata.post
 
-	end
+  end
 
-	def update
-		@@gdata.check_guess(gdata_params[:id])
-		
-		gdata_params[:found] = @@gdata.get_found
-		
-		if @@gdata.errors.nil?
-			render json: gdata_params
-		else
-			render :json => { :errors => @@gdata.errors }
-		end
-	end
+  def update
+    @@gdata.check_guess(gdata_params[:id])
 
-	private
+    gdata_params[:found] = @@gdata.get_found
 
-	def gdata_params
-		params
-	end
+    if @@gdata.errors.nil?
+      render json: gdata_params
+    else
+      render :json => { :errors => @@gdata.errors }
+    end
+  end
+
+  private
+
+  def gdata_params
+    params
+  end
 
 
 end
