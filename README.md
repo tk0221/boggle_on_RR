@@ -1,5 +1,15 @@
 # Boggle Game demo on Rails+React
 
+## Shortcut
+
+[`Algorithm`](https://repl.it/@tk0221/boggleWordSearch)
+[`ErrorMsgTypes`](https://github.com/tk0221/boggle_on_RR/blob/master/lib/GameData.rb#L37)
+[`AjaxCallToBackend`](https://github.com/tk0221/boggle_on_RR/blob/master/app/javascript/components/Guess.js#L28)
+[`CheckingGuessword With Oxford Dict API`](https://github.com/tk0221/boggle_on_RR/blob/master/lib/GameData.rb#L98)
+[`Score`](https://github.com/tk0221/boggle_on_RR/blob/master/lib/GameData.rb#L118)
+[`RandomBoardGen`](https://github.com/tk0221/boggle_on_RR/blob/master/lib/GameData.rb#L140)
+[`GameDataSpecTest`](https://github.com/tk0221/boggle_on_RR/blob/master/spec/game_data_spec.rb)
+
 ## Goal
 
 - Generate a random 4 x 4 boggle board
