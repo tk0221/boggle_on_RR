@@ -1,6 +1,7 @@
 # Boggle Game demo on Rails+React
 
 ## Shortcut
+[`Demo on Cloud`](http://35.231.108.31:3000/)
 
 [`Algorithm`](https://repl.it/@tk0221/boggleWordSearch)
 [`ErrorMsgTypes`](https://github.com/tk0221/boggle_on_RR/blob/master/lib/GameData.rb#L37)
