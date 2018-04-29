@@ -30,31 +30,70 @@ class GameData
 
 
   def check_guess(word)
-  #preprocess
-  # check guess is already in found. O(1) with hash search
-  # if not check word can be found in current board. O(N*N*W*16)
-  if word.include?(' ')
-    @errors = "Invalid Input : Input contain whitespace."
-  elsif @found[word]
-    @errors = "Input is already in answers."
-  elsif word.length > 16
-    @errors = "Invalid Input : Max Input is 16 chars."
-  elsif !request_word_check(word)
-    @errors = "Invalid Input : Not found in dictionary."
-  elsif verify_guess(word)
-    @errors = nil
-    add_to_found(word)
-  end
+    #preprocess
+    # check guess is already in found. O(1) with hash search
+    # if not check word can be found in current board. O(N*N*W*16)
+    puts verify_guess(word)
+    puts request_word_check(word)
+
+    if word.nil?
+      @errors = "Invalid Input : Input not found"
+    elsif word.include?(' ')
+      @errors = "Invalid Input : Input contain whitespace."
+    elsif @found[word]
+      @errors = "Input is already in answers."
+    elsif word.length > 16
+      @errors = "Invalid Input : Max Input is 16 chars."      
+    elsif !verify_guess(word)
+      @errors = "Invalid Input : Input cant found in the board."
+    elsif !request_word_check(word)
+      @errors = "Invalid Input : Not found in dictionary."
+    else
+      @errors = nil
+      add_to_found(word)
+    end
   end
 
   private
-  # 2 step verify
-  # 1. check it is a word
-  # 2. check it can be exist in board
+  # https://repl.it/@tk0221/boggleWordSearch
+  #Can word be exist in board?
   def verify_guess(word)
-    return true
+      str = word.split('')
+      hash, index = {}, 0
+      word.each_char do |ch|
+          tmp = []
+          @board.each_index { |j| k = @board[j].index ch; tmp << [j, k] if k }
+          if hash[index].nil?
+              hash[index] = tmp
+          else
+              hash[index] += tmp
+          end
+          index+=1
+      end
 
+      cut = hash.size * 2
+      flat = hash.values.inject(&:product).flatten
+      while !flat.empty?
+          path = flat.shift(cut).each_slice(2).to_a
+          #remove path that visit same xy cordinate 
+          if path.size != path.uniq.size             
+              next
+          end
+          return true if path_check(path)
+      end
+      
+      return false
+  end
 
+  def path_check(path)
+      curr = path.shift
+      while !path.empty?
+          if (curr[0] - path.first[0]).abs > 1 or (curr[1] - path.first[1]).abs > 1
+              return false
+          end
+          curr = path.shift    
+      end
+      return true
   end
 
 

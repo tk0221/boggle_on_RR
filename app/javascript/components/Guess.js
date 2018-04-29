@@ -6,7 +6,7 @@ class Guess extends React.Component {
 		super(props)
 		this.state = {
 			content: props.post.content,  	//guess
-			words: [],					//word found
+			words: [],					            //word found
 			score_board: "",
 			score: 0
 		};
