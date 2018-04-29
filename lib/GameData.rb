@@ -33,8 +33,6 @@ class GameData
     #preprocess
     # check guess is already in found. O(1) with hash search
     # if not check word can be found in current board. O(N*N*W*16)
-    puts verify_guess(word)
-    puts request_word_check(word)
 
     if word.nil?
       @errors = "Invalid Input : Input not found"
