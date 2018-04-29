@@ -8,6 +8,11 @@ class GameData
   		@props = { r1: @r1, r2: @r2, r3: @r3, r4: @r4 }
   		@post = { title:"test", content:"" }
   		@start_at = Time.now
+  		@errors=nil
+  	end
+
+  	def errors
+  		return @errors
   	end
 
   	def get_board
@@ -21,8 +26,12 @@ class GameData
 
   	def check_guess(word)
   		#preprocess
-
-  		add_to_found(word)
+  		if word == "zzz"
+  			@errors = "Invalid Input Word"
+  		else
+  			@errors = nil
+  			add_to_found(word)
+  		end
   	end
 
   	private

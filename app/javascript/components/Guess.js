@@ -32,29 +32,28 @@ class Guess extends React.Component {
 			},
 			url: '/welcome/'+this.state.content+'.json',
 			success: function(data) {
-				this.setState({words:data.found});  //update word found
-				
+				if (data.errors) {
+					alert(data.errors);
+				} else {
+					this.setState({words:data.found});  //update word found
+					
+					var score = 0
+					for (var key in data.found) {
+						score = score + data.found[key]
+					}
+					this.setState({score:score});
 
-				var score = 0
-				for (var key in data.found) {
-					score = score + data.found[key]
+
+					var text = JSON.stringify(data.found)
+					
+					if (text.length < 6)
+						text = ""
+					else
+						text = text.substring(6, text.length-1)
+						text = text.split(',').join('\n')
+
+					this.setState({score_board:text});
 				}
-				this.setState({score:score});
-
-
-				var text = JSON.stringify(data.found)
-				
-
-
-				if (text.length < 6)
-					text = ""
-				else
-					text = text.substring(6, text.length-1)
-					text = text.split(',').join('\n')
-
-
-				this.setState({score_board:text});
-				// console.log(data);
 			}.bind(this)
 		})
 		.done(function(data) {

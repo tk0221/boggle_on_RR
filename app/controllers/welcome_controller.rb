@@ -13,15 +13,15 @@ class WelcomeController < ApplicationController
 	end
 
 	def update
-		# @word_submitted = gdata_params[:id]
-
 		@@gdata.check_guess(gdata_params[:id])
 		
-
-		gdata_params[:board] = @@gdata.get_board
 		gdata_params[:found] = @@gdata.get_found
-		# p @@gdata.get_found
-		render json: gdata_params
+
+		if @@gdata.errors.nil?
+			render json: gdata_params
+		else
+			render :json => { :errors => "Invalid Input" }
+		end
 	end
 
 	private
