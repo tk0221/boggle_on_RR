@@ -34,8 +34,10 @@ class GameData
     # check guess is already in found. O(1) with hash search
     # if not check word can be found in current board. O(N*N*W*16)
 
-    if word.nil?
-      @errors = "Invalid Input : Input not found"
+    if word.size <= 2
+      @errors = "Invalid Input : Input minimum is 3 chars."
+    elsif word.nil?
+      @errors = "Invalid Input : Input not found."
     elsif word.include?(' ')
       @errors = "Invalid Input : Input contain whitespace."
     elsif @found[word]
@@ -117,7 +119,6 @@ class GameData
   #Add to found{} with score
   def add_to_found(word)
     len = word.length
-    return if len <= 2
     score = 0
     if len == 3 or len == 4
       score = 1
