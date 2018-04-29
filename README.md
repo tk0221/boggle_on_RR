@@ -1,20 +1,35 @@
-# React-Rails Demo Application
+# Boggle Game demo on Rails+React
 
-This repo is an example of a simple working Rails 5, Webpack(er)3, React-Rails 2.3+ application.
 
-Where generators are used, the git commit will be the command ran to get to the current application state so it will hopefully be easy to follow along at home.
+## Things not covered in this 
+  
+ - Designed to be serve single user
+ - 4 x 4 as default
+  
 
-## Branches
+## How to excute
 
-This repo contains two trees, one Webpacker and one Sprockets.
+```
+ubuntu 16.0
+node -v 6.9.0
+rails -v 5.1.4
+ruby -v 2.4.1p111
+```
 
-Each branch illustrates a react-rails ability.
+1. Link : http://35.231.108.31:3000/ (running on GoogleCloud / f1-micro (1 vCPU, 0.6 GB memory) very low spec)
 
-* [`master`](https://github.com/BookOfGreg/react-rails-example-app) -> Webpacker 3
-* [`sprockets`](https://github.com/BookOfGreg/react-rails-example-app/tree/sprockets) -> Sprockets 3
-* [`rails-production-version`](https://github.com/BookOfGreg/react-rails-example-app/compare/sprockets...rails-production-version?expand=1) -> Sprockets 3 + serving production prebundled react
-* [`rails-assets-sprockets`](https://github.com/BookOfGreg/react-rails-example-app/compare/sprockets...rails-assets-sprockets?expand=1) -> Sprockets 3 + using Rails-Assets.org (failed)
-* [`generate-new-component`](https://github.com/BookOfGreg/react-rails-example-app/compare/master...generate-new-component?expand=1) -> Webpacker 3 + new style component
-* [`without-ujs`](https://github.com/BookOfGreg/react-rails-example-app/compare/master...without-ujs?expand=1) -> Sprockets 3 + removing UJS and making component globally accessible
-* [`jsx-file-example`](https://github.com/BookOfGreg/react-rails-example-app/compare/master...jsx-file-example?expand=1) -> Webpacker 3 + file named .JSX
-* [`coffeescript-example`](https://github.com/BookOfGreg/react-rails-example-app/compare/master...coffeescript-example?expand=1) -> Webpacker 3 + Coffeescript WITH JSX
+or
+
+Install guideline
+```
+git clone https://github.com/tk0221/boggle_on_RR
+cd boggle_on_RR
+gem install bundler
+bundle
+rails s
+```
+
+## Testcase
+
+Test case for GameData is [`game_data_spec`](https://github.com/tk0221/boggle_on_RR/blob/master/spec/game_data_spec.rb)
+Explain about searching a word on board [`verify_guess`](https://repl.it/@tk0221/boggleWordSearch)
